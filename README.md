@@ -1,6 +1,8 @@
 # VLPose: Bridging the Domain Gap in Pose Estimation with Language-Vision Tuning
 
-<img src="imgs/impression.png" alt="性能对比图" width="400">
+<div style="text-align:center">
+  <img src="imgs/impression.png" alt="impression" width="400">
+</div>
 
 ## Framework
 
